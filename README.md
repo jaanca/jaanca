@@ -15,6 +15,11 @@
     just adjust the routes to consume azure app services    
     https://github.com/jaanca/Gateway-Docker-Nginx-Azure-App-Service
 
+* [English] Postgres+Docker & InitDBWithData
+  * Create a postgres engine linux in docker container and populate the data from a .sql file.
+    Using powershell initialize the system in docker desktop for Windows
+    https://github.com/jaanca/Postgres-Docker-InitDBWithData
+
 <!--
 **jaanca/jaanca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
