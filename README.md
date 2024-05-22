@@ -1,5 +1,9 @@
 ### List of repos
 
+* Python Library - A tool library created by jaanca and published on pypi.org.
+  * https://github.com/jaanca/python-libraries
+  * https://pypi.org/project/jaanca/
+
 * [Spanish] app-fastapi-logindb-pytest-coverage:
   > Ejemplo de FastApi con login de user/pass en swagger, con una estructura jerarquica adecuada de carpetas
   > https://github.com/jaanca/app-fastapi-logindb-pytest-coverage
@@ -19,10 +23,6 @@
   * Create a postgres engine linux in docker container and populate the data from a .sql file.
     Using powershell initialize the system in docker desktop for Windows
     https://github.com/jaanca/Postgres-Docker-InitDBWithData
-
-* Python Library - A tool library created by jaanca and published on pypi.org.
-  * https://github.com/jaanca/python-libraries
-  * https://pypi.org/project/jaanca/
 
 <!--
 **jaanca/jaanca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
