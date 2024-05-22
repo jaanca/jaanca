@@ -21,8 +21,8 @@
     https://github.com/jaanca/Postgres-Docker-InitDBWithData
 
 * Python Library - A tool library created by jaanca and published on pypi.org.
-  https://github.com/jaanca/python-libraries
-  https://pypi.org/project/jaanca/
+  * https://github.com/jaanca/python-libraries
+  * https://pypi.org/project/jaanca/
 
 <!--
 **jaanca/jaanca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
