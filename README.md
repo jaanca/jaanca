@@ -4,6 +4,9 @@
   * https://github.com/jaanca/python-libraries
   * https://pypi.org/project/jaanca/
 
+* Create https web certificate and use it for web browser, example with python and FastAPI for debugging and run in docker.
+  > https://github.com/jaanca/fastapi-https-docker-generate-certificate-web
+
 * [Spanish] app-fastapi-logindb-pytest-coverage:
   > Ejemplo de FastApi con login de user/pass en swagger, con una estructura jerarquica adecuada de carpetas
   > https://github.com/jaanca/app-fastapi-logindb-pytest-coverage
